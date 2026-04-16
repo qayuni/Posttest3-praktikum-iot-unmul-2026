@@ -97,6 +97,7 @@ Aplikasi dibuat menggunakan Kodular dengan fitur:
 
 ## 🖼️ Gambar Board Schematic
 ESP32 digunakan sebagai kontrol utama yang terhubung dengan relay, servo, dan buzzer.
+
 <img width="906" height="584" alt="WhatsApp Image 2026-04-16 at 1 01 03 PM" src="https://github.com/user-attachments/assets/e1a4a495-b791-4c1f-b11c-8fa5f7df3061" />
 
 ### Relay
